@@ -7,7 +7,6 @@ public class WebScraper {
     }
     public static  String url(String txt ) {
         txt.replace("//P{Punct}","");
-        
     }
 
 
